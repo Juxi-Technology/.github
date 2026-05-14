@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/207463361?s=120&v=4" width="120" align="left" style="margin-right: 30px;"> Juxi Technology
+# <img src="profile/assets/钜犀科技-RGB.jpg" width="120" align="left" style="margin-right: 30px;"> Juxi Technology
 
 🤖 **Technology company focused on embodied intelligence and open-source intelligent hardware**
 
