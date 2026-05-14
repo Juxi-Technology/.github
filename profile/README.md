@@ -15,7 +15,7 @@ We design and fully open source our own original intelligent hardware products. 
 
 - **High-precision IMU Module**: 9-axis inertial measurement unit with built-in sensor fusion algorithm, providing stable real-time attitude data
 - **AI Wake-up Sound Card**: USB plug-and-play sound card with offline voice wake-up function, supporting custom wake-up words and low-power operation
-- **Intelligent KVM Switcher**: Multi-device KVM switcher with AI-assisted control, supporting seamless switching between multiple computers and peripherals
+- **Intelligent KVM Switcher**: Multi-device KVM switcher supporting seamless switching between multiple computers and peripherals
 
 
 
