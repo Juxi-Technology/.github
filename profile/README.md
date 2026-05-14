@@ -63,5 +63,5 @@ For business inquiries, ODM cooperation or technical support, please contact us:
 - 💴 **TaoBao**: [JuxiTech Taobao](https://juxitechnology.taobao.com)
 
 ## 📖 Language
-- [cn 简体中文](https://github.com/Juxi-Technology/.github/blob/main/profile/README_zh.md)
-- [hk 繁體中文](https://github.com/Juxi-Technology/.github/blob/main/profile/README_zh-tw.md)
+- [CN 简体中文](https://github.com/Juxi-Technology/.github/blob/main/profile/README_zh.md)
+- [HK 繁體中文](https://github.com/Juxi-Technology/.github/blob/main/profile/README_zh-tw.md)
