@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Juxi-Technology/.github/main/profile/assets/钜犀科技-RGB.jpg" width="120" align="left" style="margin-right: 30px;"> Juxi Technology
+# <img src="https://raw.githubusercontent.com/Juxi-Technology/.github/main/profile/assets/钜犀科技-RGB.jpg" width="120" align="left" style="margin-right: 30px;"> 钜犀科技-Juxi Technology
 
 🤖 **专注于具身智能与开源智能硬件的科技公司**
 
