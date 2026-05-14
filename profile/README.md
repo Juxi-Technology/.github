@@ -61,3 +61,7 @@ For business inquiries, ODM cooperation or technical support, please contact us:
 - 📧 **Business**: sales@juxitech.com
 - 📺 **Bilibili**: [JuxiTech Bilibili](https://space.bilibili.com/3546906737248821)
 - 💴 **TaoBao**: [JuxiTech Taobao](https://juxitechnology.taobao.com)
+
+## 📖 Language
+- [cn 简体中文](https://github.com/Juxi-Technology/.github/blob/main/profile/README_zh.md)
+- [tw 繁體中文](https://github.com/Juxi-Technology/.github/blob/main/profile/README_zh-tw.md)
