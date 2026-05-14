@@ -58,5 +58,5 @@ For business inquiries, ODM cooperation or technical support, please contact us:
 
 - 🌐 **Official Website**: https://www.juxitech.com
 - 📧 **Email**: pe@juxitech.com
-- 📺 **Bilibili**: https://space.bilibili.com/3546906737248821
-- 💴 **TaoBao**: https://juxitechnology.taobao.com
+- 📺 **Bilibili**: [JuxiTech Bilibili](https://space.bilibili.com/3546906737248821)
+- 💴 **TaoBao**: [JuxiTech Taobao](https://juxitechnology.taobao.com)
