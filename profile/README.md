@@ -57,6 +57,7 @@ If you find our projects helpful, please give our repositories a Star ⭐. It is
 For business inquiries, ODM cooperation or technical support, please contact us:
 
 - 🌐 **Official Website**: https://www.juxitech.com
-- 📧 **Email**: pe@juxitech.com
+- 💬 **Feedback‌**: pe@juxitech.com
+- 📧 **Business**: sales@juxitech.com
 - 📺 **Bilibili**: [JuxiTech Bilibili](https://space.bilibili.com/3546906737248821)
 - 💴 **TaoBao**: [JuxiTech Taobao](https://juxitechnology.taobao.com)
