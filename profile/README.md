@@ -2,7 +2,7 @@
 
 🤖 **Technology company focused on embodied intelligence and open-source intelligent hardware**
 
-Welcome to the Juxi Technology open source community!
+**Welcome to the Juxi Technology open source community!**
 
 Since day one, open source has been in our DNA. Located in Qianhai, Shenzhen, we adhere to the philosophy of "Relying on Hong Kong, serving the Chinese mainland, and facing the world". We are deeply rooted in the fields of intelligent hardware and embodied intelligence, with technological innovation as our core.
 
