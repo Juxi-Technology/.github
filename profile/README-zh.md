@@ -51,4 +51,4 @@
 - 💬 **用户反馈**: pe@juxitech.com
 - 📧 **商务邮箱**: sales@juxitech.com
 - 📺 **哔哩哔哩**: [JuxiTech Bilibili](https://space.bilibili.com/3546906737248821)
-- 💴 **淘宝**: [JuxiTech Taobao](https://juxitechnology.taobao.com)
+- 💴 **官方淘宝**: [JuxiTech Taobao](https://juxitechnology.taobao.com)
