@@ -8,15 +8,6 @@ Since day one, open source has been in our DNA. Located in Qianhai, Shenzhen, we
 
 Our mission is to build cost-effective, easy-to-develop robotics and intelligent hardware platforms, enabling every developer and innovator around the world to bring their ideas to life effortlessly. We introduce advanced algorithm frameworks with an international perspective, adapt them to local industrial demands, and simultaneously promote our independent solutions to the global market.
 
----
-
-## 🛠️ Our Services
-
-We provide professional ODM (Original Design Manufacturing) services to help enterprises and developers bring their products to market quickly. Based on our mature self-developed products and technical expertise, we can customize hardware designs, firmware and software according to your specific requirements, and provide full lifecycle support from prototype to mass production.
-
-We work with trusted manufacturing partners in Shenzhen to ensure high-quality production and on-time delivery, so you can focus on your core business while we take care of the rest.
-
----
 
 ## 🦾 Our Open Source Products
 
@@ -26,9 +17,17 @@ We design and fully open source our own original intelligent hardware products. 
 - **AI Wake-up Sound Card**: USB plug-and-play sound card with offline voice wake-up function, supporting custom wake-up words and low-power operation
 - **Intelligent KVM Switcher**: Multi-device KVM switcher with AI-assisted control, supporting seamless switching between multiple computers and peripherals
 
----
 
-## 🤝 Open Source Robotics Ecosystem
+
+## 🛠️ Our Services
+
+We provide professional ODM (Original Design Manufacturing) services to help enterprises and developers bring their products to market quickly. Based on our mature self-developed products and technical expertise, we can customize hardware designs, firmware and software according to your specific requirements, and provide full lifecycle support from prototype to mass production.
+
+We work with trusted manufacturing partners in Shenzhen to ensure high-quality production and on-time delivery, so you can focus on your core business while we take care of the rest.
+
+
+
+## 📖 Further more
 
 We are big fans and active users of the global open source robotics community. We provide technical support, accessories and manufacturing solutions for the following excellent open source robotics projects:
 
@@ -38,18 +37,7 @@ We are big fans and active users of the global open source robotics community. W
 
 We are committed to making these amazing projects more accessible to developers around the world by providing affordable components and reliable technical support.
 
----
 
-## 🔬 Our Technology Focus
-
-Our expertise covers key technologies in the embodied intelligence field:
-
-- **Multimodal Perception Fusion**: Integrating vision, touch and audio perception for robots
-- **Edge AI Optimization**: Lightweighting large language models and computer vision models for edge devices
-- **Autonomous Robot Control**: Developing advanced motion planning and control algorithms
-- **Open Hardware Design**: Creating modular, reproducible and manufacturable hardware designs
-
----
 
 ## ✨ How you can contribute
 
@@ -62,13 +50,13 @@ We welcome all forms of contributions to our open source projects:
 
 If you find our projects helpful, please give our repositories a Star ⭐. It is the greatest support for us!
 
----
 
-## 📞 Get in Touch
+
+## 🔗 More Information
 
 For business inquiries, ODM cooperation or technical support, please contact us:
 
 - 🌐 **Official Website**: https://www.juxitech.com
 - 📧 **Email**: pe@juxitech.com
-- 📺 **Bilibili**: https://space.bilibili.com/[你的B站数字ID]
-- 🐦 **X (Twitter)**: https://twitter.com/JuxiTechnology
+- 📺 **Bilibili**: https://space.bilibili.com/3546906737248821
+- 💴 **TaoBao**: https://juxitechnology.taobao.com
