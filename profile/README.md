@@ -17,16 +17,6 @@ We design and fully open source our own original intelligent hardware products. 
 - **AI Wake-up Sound Card**: USB plug-and-play sound card with offline voice wake-up function, supporting custom wake-up words and low-power operation
 - **Intelligent KVM Switcher**: Multi-device KVM switcher supporting seamless switching between multiple computers and peripherals
 
-
-
-## 🛠️ Our Services
-
-We provide professional ODM (Original Design Manufacturing) services to help enterprises and developers bring their products to market quickly. Based on our mature self-developed products and technical expertise, we can customize hardware designs, firmware and software according to your specific requirements, and provide full lifecycle support from prototype to mass production.
-
-We work with trusted manufacturing partners in Shenzhen to ensure high-quality production and on-time delivery, so you can focus on your core business while we take care of the rest.
-
-
-
 ## 📖 Further more
 
 We are big fans and active users of the global open source robotics community. We provide technical support, accessories and manufacturing solutions for the following excellent open source robotics projects:
@@ -36,6 +26,12 @@ We are big fans and active users of the global open source robotics community. W
 - **AmazingHand**: Open-source bionic dexterous hand
 
 We are committed to making these amazing projects more accessible to developers around the world by providing affordable components and reliable technical support.
+
+## 🛠️ Our Services
+
+We provide professional ODM (Original Design Manufacturing) services to help enterprises and developers bring their products to market quickly. Based on our mature self-developed products and technical expertise, we can customize hardware designs, firmware and software according to your specific requirements, and provide full lifecycle support from prototype to mass production.
+
+We work with trusted manufacturing partners in Shenzhen to ensure high-quality production and on-time delivery, so you can focus on your core business while we take care of the rest.
 
 
 
