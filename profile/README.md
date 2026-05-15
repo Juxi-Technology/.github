@@ -17,6 +17,12 @@ We design and fully open source our own original intelligent hardware products. 
 - **AI Wake-up Sound Card**: USB plug-and-play sound card with offline voice wake-up function, supporting custom wake-up words and low-power operation
 - **Intelligent KVM Switcher**: Multi-device KVM switcher supporting seamless switching between multiple computers and peripherals
 
+## 📄 Wiki
+
+Project knowledge base and documentation center, including project introduction, quick start, feature instructions, deployment guides, FAQs and development documentation. It is continuously updated for quick reference by developers and users.
+
+- [Lark Wiki](https://juxitech.feishu.cn/wiki/RhA6wg91hiFZykkcDGoc8wMCnch?from=from_copylink)
+
 ## 📖 Further more
 
 We are big fans and active users of the global open source robotics community. We provide technical support, accessories and manufacturing solutions for the following excellent open source robotics projects:
