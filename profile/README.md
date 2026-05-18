@@ -27,9 +27,9 @@ Project knowledge base and documentation center, including project introduction,
 
 We are big fans and active users of the global open source robotics community. We provide technical support, accessories and manufacturing solutions for the following excellent open source robotics projects:
 
-- **SO-ARM101**: 6-axis desktop open-source robotic arm
-- **LeKiwi**: Omnidirectional mobile open-source robot platform
-- **AmazingHand**: Open-source bionic dexterous hand
+- **[SO-ARM101](https://juxitech.feishu.cn/wiki/GG0cwT9YFia1Jika2g0cSlD1ngd?from=from_copylink)**: 6-axis desktop open-source robotic arm.[Original Project](https://huggingface.co/docs/lerobot/so101)
+- **[LeKiwi](https://juxitech.feishu.cn/wiki/GkGSwc8f5iQ2FjkqL7acmMBPnxg?from=from_copylink)**: Omnidirectional mobile open-source robot platform.[Original Project](https://huggingface.co/docs/lerobot/lekiwi)
+- **[AmazingHand](https://github.com/Juxi-Technology/AmazingHand)**: Open-source bionic dexterous hand.[Original Project](https://github.com/pollen-robotics/AmazingHand)
 
 We are committed to making these amazing projects more accessible to developers around the world by providing affordable components and reliable technical support.
 
