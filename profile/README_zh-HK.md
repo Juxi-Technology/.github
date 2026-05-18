@@ -11,17 +11,17 @@
 
 我們設計並完全開源我們自己的原創智慧硬體產品。所有設計檔案、韌體和軟體都在GitHub上提供，供任何人使用、修改和散佈：
 
-- **高精度IMU模組**：內建感測器融合演算法的6/9/10軸慣性測量單元，提供穩定的即時姿態數據
-- **AI喚醒音效卡**：即插即用USB音效卡，支援離線語音喚醒功能，可自訂喚醒詞，支援低功耗運行
-- **智慧型KVM切換器**：多裝置KVM切換器，支援多台電腦和周邊設備之間的無縫切換
+- **[高精度IMU模組](https://juxitech.feishu.cn/wiki/FOlkwc8gyidcCrkdVIWcdSPqnqe?from=from_copylink)**：內建感測器融合演算法的6/9/10軸慣性測量單元，提供穩定的即時姿態數據
+- **[AI喚醒音效卡](https://juxitech.feishu.cn/wiki/MfJWwZsQXi4vPHk47foc1kJOnGg?from=from_copylink)**：即插即用USB音效卡，支援離線語音喚醒功能，可自訂喚醒詞，支援低功耗運行
+- **[智慧型KVM切換器](https://juxitech.feishu.cn/wiki/YQ4ewWRjYi8wVek48omc3dJWnvf?from=from_copylink)**：多裝置KVM切換器，支援多台電腦和周邊設備之間的無縫切換
 
 ## 📖 更多內容
 
 我們是全球開源機器人社群的忠實粉絲和活躍使用者。我們為以下優秀的開源機器人專案提供技術支援、配件和量產解決方案：
 
-- **SO-ARM101**：6軸桌面級開源機械手臂
-- **LeKiwi**：全向移動開源機器人平台
-- **AmazingHand**：開源仿生靈巧手
+- **[SO-ARM101](https://juxitech.feishu.cn/wiki/XW85wMBEriOQJikXORDcfUd3nXe?from=from_copylink)**：6軸桌面級開源機械手臂.[[Original Project]](https://huggingface.co/docs/lerobot/so101)
+- **[LeKiwi](https://juxitech.feishu.cn/wiki/QuqbwXsE0itclRkcOHPcanChn0c?from=from_copylink)**：全向移動開源機器人平台.[[Original Project]](https://huggingface.co/docs/lerobot/lekiwi)
+- **[AmazingHand](https://juxitech.feishu.cn/wiki/CAM4w3IIEikov0kDIfncI5i5n7d?from=from_copylink)**：開源仿生靈巧手.[[Original Project]](https://github.com/pollen-robotics/AmazingHand)
 
 我們致力於透過提供高性價比的元件和可靠的技術支援，讓這些出色的專案能夠被全球更多開發者所使用。
 
