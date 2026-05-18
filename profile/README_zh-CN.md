@@ -12,17 +12,17 @@
 
 我们设计并完全开源我们自己的原创智能硬件产品。所有设计文件、固件和软件都在GitHub上提供，供任何人使用、修改和分发：
 
-- **高精度IMU模块**：内置传感器融合算法的6/9/10轴惯性测量单元，提供稳定的实时姿态数据
-- **AI唤醒声卡**：即插即用USB声卡，支持离线语音唤醒功能，可自定义唤醒词，支持低功耗运行
-- **KVM切换器**：支持多台计算机和外设之间无缝切换的多设备KVM切换器
+- **[高精度IMU模块](https://juxitech.feishu.cn/wiki/GqCuwZB2ci0nBskqVzEcQa3wn7b?from=from_copylink)**：内置传感器融合算法的6/9/10轴惯性测量单元，提供稳定的实时姿态数据
+- **[AI唤醒声卡](https://juxitech.feishu.cn/wiki/FXymw3ac4iez1ukbLFmcI5HunHc?from=from_copylink)**：即插即用USB声卡，支持离线语音唤醒功能，可自定义唤醒词，支持低功耗运行
+- **[KVM切换器](https://juxitech.feishu.cn/wiki/F7Tvw13UoiU81RkKoOtciktEnLh?from=from_copylink)**：支持多台计算机和外设之间无缝切换的多设备KVM切换器
 
 ## 📖 相关项目
 
 我们是全球开源机器人社区的忠实粉丝和活跃用户。我们为以下优秀的开源机器人项目提供技术支持、配件和量产解决方案：
 
-- **SO-ARM101**：6轴桌面级开源机械臂
-- **LeKiwi**：全向移动开源机器人平台
-- **AmazingHand**：开源仿生灵巧手
+- **[SO-ARM101](https://juxitech.feishu.cn/wiki/Wztzw95Cui2F9LkbMk8cnAoanCc?from=from_copylink)**：6轴桌面级开源机械臂。[[原项目地址]](https://huggingface.co/docs/lerobot/so101)
+- **[LeKiwi](https://juxitech.feishu.cn/wiki/A2orwQ9xzidMCjk10SVcAAWVnhd?from=from_copylink)**：全向移动开源机器人平台。[[原项目地址]](https://huggingface.co/docs/lerobot/lekiwi)
+- **[AmazingHand](https://juxitech.feishu.cn/wiki/PR1JwkQxaiDAn1k85e2cZIi5nTf?from=from_copylink)**：开源仿生灵巧手。[[原项目地址]](https://github.com/pollen-robotics/AmazingHand)
 
 我们致力于通过提供高性价比的组件和可靠的技术支持，让这些出色的项目能够被全球更多开发者所使用。
 
