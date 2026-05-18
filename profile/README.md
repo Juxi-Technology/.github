@@ -13,7 +13,7 @@ Our mission is to build cost-effective, easy-to-develop robotics and intelligent
 
 We design and fully open source our own original intelligent hardware products. All design files, firmware and software are available on GitHub for anyone to use, modify and distribute:
 
-- **(High-precision IMU Module)[https://github.com/Juxi-Technology/ICM42670P-High-Precision-IMU-Module]**: 6/9/10-axis inertial measurement unit with built-in sensor fusion algorithm, providing stable real-time attitude data
+- **(High-precision IMU Module)**[https://github.com/Juxi-Technology/ICM42670P-High-Precision-IMU-Module]: 6/9/10-axis inertial measurement unit with built-in sensor fusion algorithm, providing stable real-time attitude data
 - **(AI Wake-up Sound Card)[https://github.com/Juxi-Technology/Sound-card-for-KWS-speech-recognition-module]**: USB plug-and-play sound card with offline voice wake-up function, supporting custom wake-up words and low-power operation
 - **Intelligent KVM Switcher**: Multi-device KVM switcher supporting seamless switching between multiple computers and peripherals
 
