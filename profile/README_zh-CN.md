@@ -30,6 +30,8 @@
 
 项目知识库与使用文档中心，收录项目介绍、快速上手、功能说明、部署教程、常见问题与开发指南，持续更新维护，方便开发者与使用者快速查阅参考。
 
+- [Wiki](https://wiki.juxitech.com/)
+
 - [飞书知识库](https://juxitech.feishu.cn/wiki/Akpfw3LqYiYFWxkfLJxcFS0cnAg?from=from_copylink)
 
 ## 🛠️ 我们的服务
