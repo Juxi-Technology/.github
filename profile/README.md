@@ -21,6 +21,8 @@ We design and fully open source our own original intelligent hardware products. 
 
 Project knowledge base and documentation center, including project introduction, quick start, feature instructions, deployment guides, FAQs and development documentation. It is continuously updated for quick reference by developers and users.
 
+- [Web Wiki](https://wiki.juxitech.com/en/)
+
 - [Lark Wiki](https://juxitech.feishu.cn/wiki/RhA6wg91hiFZykkcDGoc8wMCnch?from=from_copylink)
 
 ## 📖 Further more
