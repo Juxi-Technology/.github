@@ -29,6 +29,8 @@
 
 專案知識庫與使用文件中心，收錄專案介紹、快速入門、功能說明、部署教學、常見問題與開發指南，持續更新維護，便利開發者與使用者快速查閱參考。
 
+- [獨立Wiki](https://wiki.juxitech.com/zh-HK/)
+
 - [Lark Wiki](https://juxitech.feishu.cn/wiki/Rlq2wVZ6mi5PLrk73Zjco7AvnHc?from=from_copylink)
 
 ## 🛠️ 我們的服務
