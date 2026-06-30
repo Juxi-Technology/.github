@@ -6,66 +6,85 @@
 
 Since day one, open source has been in our DNA. Located in Qianhai, Shenzhen, we adhere to the philosophy of "Relying on Hong Kong, serving the Chinese mainland, and facing the world". We are deeply rooted in the fields of intelligent hardware and embodied intelligence, with technological innovation as our core.
 
-Our mission is to build cost-effective, easy-to-develop robotics and intelligent hardware platforms, enabling every developer and innovator around the world to bring their ideas to life effortlessly. We introduce advanced algorithm frameworks with an international perspective, adapt them to local industrial demands, and simultaneously promote our independent solutions to the global market.
+Our mission is to build cost-effective, easy-to-develop robotics and intelligent hardware platforms, enabling every developer and innovator around the world to bring their ideas to life effortlessly.
 
+---
 
-## 🦾 Our Open Source Products
+## 🛒 Buy · 🛠️ Support · 📖 Docs
 
-We design and fully open source our own original intelligent hardware products. All design files, firmware and software are available on GitHub for anyone to use, modify and distribute:
+| 🛒 Taobao Store | 🌐 Website | 📖 Wiki Docs | 📦 All Repos |
+|:---:|:---:|:---:|:---:|
+| [JuxiTech Taobao](https://juxitechnology.taobao.com) | [juxitech.com](https://www.juxitech.com) | [wiki.juxitech.com](https://wiki.juxitech.com/en/) | [GitHub](https://github.com/orgs/Juxi-Technology/repositories) |
 
-- **[High-precision IMU Module](https://github.com/Juxi-Technology/ICM42670P-High-Precision-IMU-Module)**: 6/9/10-axis inertial measurement unit with built-in sensor fusion algorithm, providing stable real-time attitude data
-- **[AI Wake-up Sound Card](https://github.com/Juxi-Technology/Sound-card-for-KWS-speech-recognition-module)**: USB plug-and-play sound card with offline voice wake-up function, supporting custom wake-up words and low-power operation
-- **[Intelligent KVM Switcher](https://github.com/Juxi-Technology/KVM-Switches)**: Multi-device KVM switcher supporting seamless switching between multiple computers and peripherals
+---
 
-## 📄 Wiki
+## 🦾 Our Products
 
-Project knowledge base and documentation center, including project introduction, quick start, feature instructions, deployment guides, FAQs and development documentation. It is continuously updated for quick reference by developers and users.
+All products are fully open source. Design files, firmware, and software are available on GitHub:
 
-- [Web Wiki](https://wiki.juxitech.com/en/)
+### 🤖 Robot Arms
 
-- [Lark Wiki](https://juxitech.feishu.cn/wiki/RhA6wg91hiFZykkcDGoc8wMCnch?from=from_copylink)
+| Product | GitHub | 📖 Wiki Tutorial |
+|---------|--------|-----------------|
+| **SO-ARM101** 6-Axis Desktop Arm | [Original Project](https://huggingface.co/docs/lerobot/so101) | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/robot-arms/so-arm101/SO-ARM101-Tutorial) |
+| **AmazingHand** Bionic Dexterous Hand | [GitHub](https://github.com/Juxi-Technology/AmazingHand) | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/robot-arms/amazing-hand/AmazingHand-Interface-Control) |
+| **Lekiwi** Omnidirectional Robot | [Original Project](https://huggingface.co/docs/lerobot/lekiwi) | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/robot-arms/lekiwi/Lekiwi-Tutorial) |
 
-## 📖 Further more
+### 📷 Vision & Cameras
 
-We are big fans and active users of the global open source robotics community. We provide technical support, accessories and manufacturing solutions for the following excellent open source robotics projects:
+| Product | GitHub | 📖 Wiki Tutorial |
+|---------|--------|-----------------|
+| **USB Auto-Focus Camera** 1080P Wide-Angle | - | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/accessories/usb-auto-focus-camera) |
+| **Jetson CSI Camera** | - | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/accessories/jetson-csi-camera) |
+| **4K HDMI Capture Card** | - | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/accessories/4k-hdmi-capture-tutorial) |
 
-- **[SO-ARM101](https://juxitech.feishu.cn/wiki/GG0cwT9YFia1Jika2g0cSlD1ngd?from=from_copylink)**: 6-axis desktop open-source robotic arm.[[Original Project]](https://huggingface.co/docs/lerobot/so101)
-- **[LeKiwi](https://juxitech.feishu.cn/wiki/GkGSwc8f5iQ2FjkqL7acmMBPnxg?from=from_copylink)**: Omnidirectional mobile open-source robot platform.[[Original Project]](https://huggingface.co/docs/lerobot/lekiwi)
-- **[AmazingHand](https://github.com/Juxi-Technology/AmazingHand)**: Open-source bionic dexterous hand.[[Original Project]](https://github.com/pollen-robotics/AmazingHand)
+### 🔧 Servos & Gimbals
 
-We are committed to making these amazing projects more accessible to developers around the world by providing affordable components and reliable technical support.
+| Product | GitHub | 📖 Wiki Tutorial |
+|---------|--------|-----------------|
+| **2-DOF Camera Gimbal** | [GitHub](https://github.com/Juxi-Technology/2dof-camera-gimbal) | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/accessories/2dof-camera-gimbal) |
+| **Feetech Servo Series** | - | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/accessories/feetech/Feetech-STS3215&SCS0009-Tutorial) |
+
+### 📡 Communication & Interaction
+
+| Product | GitHub | 📖 Wiki Tutorial |
+|---------|--------|-----------------|
+| **KWS Speech Recognition Module** | [GitHub](https://github.com/Juxi-Technology/Sound-card-for-KWS-speech-recognition-module) | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/accessories/KWS-speech-recognition-module/) |
+| **USB Audio Card** | [GitHub](https://github.com/Juxi-Technology/Driver-Free-Sound-Card) | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/accessories/usb-audio-card-tutorial) |
+| **0.91" OLED Screen** | [GitHub](https://github.com/Juxi-Technology/OLED-Secondary-Display-RaspberryPi-Jetson) | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/accessories/0.91-oled-screen-tutorial) |
+| **KVM Switch** | [GitHub](https://github.com/Juxi-Technology/KVM-Switches) | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/accessories/kvm-switch-tutorial) |
+
+### 📊 Sensors & Perception
+
+| Product | GitHub | 📖 Wiki Tutorial |
+|---------|--------|-----------------|
+| **IMU Inertial Navigation Module** | [GitHub](https://github.com/Juxi-Technology/ICM42670P-High-Precision-IMU-Module) | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/sensors/imu/) |
+| **Heart Rate SpO2 Sensor** MAX30102 | [GitHub](https://github.com/Juxi-Technology/JUXI_HeartRate_SPO2) | [📖 Tutorial](https://wiki.juxitech.com/en/tutorials/sensors/heart-rate-spo2) |
+
+---
 
 ## 🛠️ Our Services
 
-We provide professional ODM (Original Design Manufacturing) services to help enterprises and developers bring their products to market quickly. Based on our mature self-developed products and technical expertise, we can customize hardware designs, firmware and software according to your specific requirements, and provide full lifecycle support from prototype to mass production.
+We provide professional ODM services to help enterprises and developers bring products to market quickly. Based on mature self-developed products and technical expertise, we offer full lifecycle support from prototype to mass production.
 
-We work with trusted manufacturing partners in Shenzhen to ensure high-quality production and on-time delivery, so you can focus on your core business while we take care of the rest.
+---
 
+## ✨ How to Contribute
 
+- **Report issues**: Found a bug or have a feature request? Open an issue
+- **Submit code**: Contribute bug fixes, new features, or improvements
+- **Write documentation**: Improve docs or [contribute tutorials](https://wiki.juxitech.com/en/community/contributing)
+- **Share your projects**: Built something cool with our products? Share it with the community!
 
-## ✨ How you can contribute
+If you find our projects helpful, please give our repos a Star ⭐!
 
-We welcome all forms of contributions to our open source projects:
+---
 
-- **Report issues**: If you find a bug or have a feature request, please open an issue
-- **Submit code**: Contribute bug fixes, new features or improvements
-- **Write documentation**: Improve existing documentation or write tutorials
-- **Share your projects**: If you have built something using our products, share it with the community
+## 🔗 Contact Us
 
-If you find our projects helpful, please give our repositories a Star ⭐. It is the greatest support for us!
-
-
-
-## 🔗 More Information
-
-For business inquiries, ODM cooperation or technical support, please contact us:
-
-- 🌐 **Official Website**: https://www.juxitech.com
-- 💬 **Feedback‌**: pe@juxitech.com
+- 🌐 **Website**: [juxitech.com](https://www.juxitech.com)
+- 🛒 **Taobao**: [JuxiTech Taobao](https://juxitechnology.taobao.com)
 - 📧 **Business**: sales@juxitech.com
+- 💬 **Feedback**: pe@juxitech.com
 - 📺 **Bilibili**: [JuxiTech Bilibili](https://space.bilibili.com/3546906737248821)
-- 💴 **TaoBao**: [JuxiTech Taobao](https://juxitechnology.taobao.com)
-
-## 📖 Language
-- [CN 简体中文](https://github.com/Juxi-Technology/.github/blob/main/profile/README_zh.md)
-- [HK 繁體中文](https://github.com/Juxi-Technology/.github/blob/main/profile/README_zh-tw.md)
+- 📖 **Wiki**: [wiki.juxitech.com](https://wiki.juxitech.com/en/)
