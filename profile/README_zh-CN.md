@@ -59,7 +59,7 @@
 | 产品 | GitHub | 📖 Wiki 教程 |
 |------|--------|-------------|
 | **IMU 高精度惯导模块** | [GitHub](https://github.com/Juxi-Technology/ICM42670P-High-Precision-IMU-Module) | [📖 教程](https://wiki.juxitech.com/tutorials/sensors/imu/) |
-| **心率血氧传感器** MAX30102 | [GitHub](https://github.com/Juxi-Technology/JUXI_HeartRate_SPO2) | [📖 教程](https://wiki.juxitech.com/tutorials/sensors/heart-rate-spo2) |
+| **心率血氧传感器** MAX30102 | [GitHub](https://github.com/Juxi-Technology/JUXI_HeartRate_SPO2) | [📖 教程](https://wiki.juxitech.com/tutorials/accessories/heart-rate-spo2) |
 
 ---
 
