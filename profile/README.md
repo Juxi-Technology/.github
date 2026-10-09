@@ -1,12 +1,11 @@
 # <img src="https://raw.githubusercontent.com/Juxi-Technology/.github/main/profile/assets/钜犀科技-RGB.jpg" width="120" align="left" style="margin-right: 30px;"> Juxi Technology
 
-🤖 **Technology company focused on embodied intelligence and open-source intelligent hardware**
+🤖 **Open Documentation Platform for Robotics & AI Hardware**
 
 **Welcome to the Juxi Technology open source community!**
 
-Since day one, open source has been in our DNA. Located in Qianhai, Shenzhen, we adhere to the philosophy of "Relying on Hong Kong, serving the Chinese mainland, and facing the world". We are deeply rooted in the fields of intelligent hardware and embodied intelligence, with technological innovation as our core.
-
-Our mission is to build cost-effective, easy-to-develop robotics and intelligent hardware platforms, enabling every developer and innovator around the world to bring their ideas to life effortlessly.
+Juxi Technology, based in Qianhai Shenzhen, follows "With Hong Kong · For the Mainland · To the World". 
+We develop physical AI, embodied robotics and edge AI, delivering open-source solutions to developers worldwide.
 
 ---
 
